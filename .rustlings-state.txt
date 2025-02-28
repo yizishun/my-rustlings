@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-quiz2
+generics1
 
 intro1
 intro2
@@ -46,3 +46,9 @@ modules3
 hashmaps1
 hashmaps2
 hashmaps3
+errors1
+errors2
+errors3
+errors4
+errors5
+errors6
